@@ -11,6 +11,7 @@ List<CardModel> card=[
   CardModel(path: "assets/images/Android.jpeg", title: "Android Course".toUpperCase()),
 
   CardModel(path: "assets/images/fullStack.jpeg", title: "iosCourse".toUpperCase()),
+
   CardModel(path: "assets/images/IOS.jpeg", title: "fullstack".toUpperCase()),
 ];
   @override
